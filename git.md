@@ -77,7 +77,8 @@ git branch -m <newname> => this command rename the current branch where we are w
 
 ## git stash
 ~~~
-git stash => is used to store files in staging area to a temp area called stash. In and out of the files in stash is in LIFO order.
+git stash => is used to store files in staging area to a temp area called stash. 
+In and out of the files in stash is in LIFO order.
 ~~~
 ![alt text](image-6.png)
 
@@ -91,7 +92,8 @@ git stash list => displays the list of stashed objects
 
 ## git stash pop
 ~~~
-git stash pop => to pop stashed item. git stash pop with pop objects in LIFO order. Objects can also poped out by git stash pop <stashid>
+git stash pop => to pop stashed item. git stash pop with pop objects in LIFO order. 
+Objects can also poped out by git stash pop <stashid>
 ~~~
 ![alt text](image-10.png)
 
