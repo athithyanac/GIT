@@ -118,7 +118,8 @@ git reset command is used to reset the current HEAD to a specified state.
     
     git reset --hard <commit id>
     
-    This will reset the commit and discard all changes after that. This will remove changes from staging and working directory.  
+    This will reset the commit and discard all changes after that. 
+    This will remove changes from staging and working directory.  
 ~~~
 ![alt text](image-15.png)
 
